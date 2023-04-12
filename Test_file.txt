@@ -4,7 +4,4 @@ A third line is added
 4th line
 5th line for testing
 6th line
-new update
-update update #8
-Testing Jira integration
-TEST-2 release info 
+
